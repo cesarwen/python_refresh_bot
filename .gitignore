@@ -1,0 +1,7 @@
+*.pickle
+__pycache__
+*.json
+# python_refresh_master.py
+# update_bot.py
+# upload_bot.py
+# snowflake_connector.py
