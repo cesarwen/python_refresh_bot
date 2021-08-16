@@ -11,7 +11,7 @@ The code was desined for refreshing reports on google sheets in a similar way th
 1. It opens the google sheets file and finds what are the queries and where should their respults be pasted at and where to find then (what is the google drive folder that they are located at).
 1. Downloads the queries from the google drive folder, run then and input the query output to the google sheets correct place.
 1. Deletes all the downloaded files
-1. Repetes fom 2 onward for the next file.
+1. Repetes from 2 onward for the next file.
 
 ---
 ### Quick disclaimer
